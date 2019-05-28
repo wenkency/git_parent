@@ -1,3 +1,0 @@
-[submodule "libxxx"]
-	path = libxxx
-	url = git@github.com:wenkency/git_child.git
